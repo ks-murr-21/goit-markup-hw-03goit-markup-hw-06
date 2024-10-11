@@ -1027,9 +1027,7 @@ img {
     flex-wrap: wrap;
     align-items: baseline;
     justify-content: flex-start;
-    padding-left: 108px;
-
-    padding: 0;
+    padding: 0 108px;
     row-gap: 72px;
     column-gap: 24px;
   }
